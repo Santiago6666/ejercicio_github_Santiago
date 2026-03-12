@@ -1,0 +1,2 @@
+NPC:"ya veo, espero que este pequeño tutorial sea de ayuda"
+NPC:" vamos a comenzar con el movimiento"
