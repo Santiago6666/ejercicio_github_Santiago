@@ -1,2 +1,4 @@
 # ejercicio_github_Santiago
-ejercicio en clase
+Nombre de proyecto : ejercicio en clase 
+Alumno: Santiago Gauto
+consigna: editar el readme
