@@ -2,4 +2,4 @@ Dialogo NPC
 NPC: "Hola, bienvenido a [Nombre del juego]"
 NPC: "voy a mostrarte un tutorial"
 NPC: "Es tu primera vez jugando [Nombre del juego] ?"
-["dialogoNPC-NO"]
+[ "dialogoNPC-SI" , "dialogoNPC-NO" ]
